@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+fastapi
+uvicorn
+onnxruntime
+transformers
+numpy
+scikit-learn
